@@ -3,6 +3,7 @@
     "description": "Tremulous is a free and open source asymmetric team-based first-person shooter with real-time strategy elements.",
     "license": "GPL-2.0-only",
     "version": "v1.3.0-alpha.0.13",
+    "bin": "tremulous.exe",
     "architecture": {
         "64bit": {
             "url": "https://github.com/GrangerHub/tremulous/releases/download/v1.3.0-alpha.0.13/release-mingw32-x86_64.zip",
